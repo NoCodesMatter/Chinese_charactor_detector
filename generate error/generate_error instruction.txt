@@ -1,0 +1,10 @@
+This file contains the code to process data, generate error and convert file between .json, .txt and simple file. The data set in the file is just example so it is small, just to test.
+
+The preprocessing is to convert the data to the format we need.
+The generate_error is to generate error.
+The json process is to convert from .json and .txt and meet the needed format
+The shape is also to deal with all kinds of open-source data set to transform them to the needed format.
+
+tools, vocab and words is used in generate error.
+
+The code is run in jupyter notebook.

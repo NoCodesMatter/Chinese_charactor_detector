@@ -1,0 +1,10 @@
+torch>=1.10.0
+numpy>=1.20.0
+scikit-learn>=0.24.0
+pypinyin>=0.42.0
+tools
+sys
+random
+math
+json
+multiprocessing
